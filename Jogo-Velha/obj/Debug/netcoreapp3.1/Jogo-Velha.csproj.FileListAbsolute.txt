@@ -1,9 +1,0 @@
-D:\Projects\Jogo-Velha\Jogo-Velha\bin\Debug\netcoreapp3.1\Jogo-Velha.deps.json
-D:\Projects\Jogo-Velha\Jogo-Velha\bin\Debug\netcoreapp3.1\Jogo-Velha.dll
-D:\Projects\Jogo-Velha\Jogo-Velha\bin\Debug\netcoreapp3.1\Jogo-Velha.pdb
-D:\Projects\Jogo-Velha\Jogo-Velha\obj\Debug\netcoreapp3.1\Jogo-Velha.csprojAssemblyReference.cache
-D:\Projects\Jogo-Velha\Jogo-Velha\obj\Debug\netcoreapp3.1\Jogo-Velha.AssemblyInfoInputs.cache
-D:\Projects\Jogo-Velha\Jogo-Velha\obj\Debug\netcoreapp3.1\Jogo-Velha.AssemblyInfo.cs
-D:\Projects\Jogo-Velha\Jogo-Velha\obj\Debug\netcoreapp3.1\Jogo-Velha.csproj.CoreCompileInputs.cache
-D:\Projects\Jogo-Velha\Jogo-Velha\obj\Debug\netcoreapp3.1\Jogo-Velha.dll
-D:\Projects\Jogo-Velha\Jogo-Velha\obj\Debug\netcoreapp3.1\Jogo-Velha.pdb
