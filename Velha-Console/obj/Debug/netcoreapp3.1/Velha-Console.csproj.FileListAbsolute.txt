@@ -1,0 +1,13 @@
+D:\Projects\Jogo-Velha\Velha-Console\bin\Debug\netcoreapp3.1\Velha-Console.exe
+D:\Projects\Jogo-Velha\Velha-Console\bin\Debug\netcoreapp3.1\Velha-Console.deps.json
+D:\Projects\Jogo-Velha\Velha-Console\bin\Debug\netcoreapp3.1\Velha-Console.runtimeconfig.json
+D:\Projects\Jogo-Velha\Velha-Console\bin\Debug\netcoreapp3.1\Velha-Console.runtimeconfig.dev.json
+D:\Projects\Jogo-Velha\Velha-Console\bin\Debug\netcoreapp3.1\Velha-Console.dll
+D:\Projects\Jogo-Velha\Velha-Console\bin\Debug\netcoreapp3.1\Velha-Console.pdb
+D:\Projects\Jogo-Velha\Velha-Console\obj\Debug\netcoreapp3.1\Velha-Console.csprojAssemblyReference.cache
+D:\Projects\Jogo-Velha\Velha-Console\obj\Debug\netcoreapp3.1\Velha-Console.AssemblyInfoInputs.cache
+D:\Projects\Jogo-Velha\Velha-Console\obj\Debug\netcoreapp3.1\Velha-Console.AssemblyInfo.cs
+D:\Projects\Jogo-Velha\Velha-Console\obj\Debug\netcoreapp3.1\Velha-Console.csproj.CoreCompileInputs.cache
+D:\Projects\Jogo-Velha\Velha-Console\obj\Debug\netcoreapp3.1\Velha-Console.dll
+D:\Projects\Jogo-Velha\Velha-Console\obj\Debug\netcoreapp3.1\Velha-Console.pdb
+D:\Projects\Jogo-Velha\Velha-Console\obj\Debug\netcoreapp3.1\Velha-Console.genruntimeconfig.cache
